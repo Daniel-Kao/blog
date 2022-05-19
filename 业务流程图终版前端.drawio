@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T06:12:25.970Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="lq-EWWINghCQikDMcT7j" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-19T06:23:19.197Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="Dg5tSCgcWsiyZL27MGrf" version="18.0.7" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1422" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="1">
+    <mxGraphModel dx="968" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -219,6 +219,30 @@
         </mxCell>
         <mxCell id="Xd9lSxhKwCtSjWoDa_1W-199" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;网页端操作&lt;/font&gt;&lt;br style=&quot;font-size: 13px&quot;&gt;&lt;/font&gt;" style="rounded=1;fillColor=#4477AB;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="160.0045578231293" y="2190" width="127" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd9lSxhKwCtSjWoDa_1W-200" value="Dorapad App业务逻辑" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;spacingBottom=8;spacingRight=0;spacingLeft=83;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2290" width="2540" height="100.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd9lSxhKwCtSjWoDa_1W-201" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2400" width="320" height="1169.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd9lSxhKwCtSjWoDa_1W-202" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="480" y="2400" width="830" height="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd9lSxhKwCtSjWoDa_1W-203" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="2390.5" width="1400" height="1169.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd9lSxhKwCtSjWoDa_1W-204" value="业务用例" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="2390.5" width="1400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd9lSxhKwCtSjWoDa_1W-205" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="2390.5" width="1140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd9lSxhKwCtSjWoDa_1W-206" value="顶层模块" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="Xd9lSxhKwCtSjWoDa_1W-205">
+          <mxGeometry width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xd9lSxhKwCtSjWoDa_1W-207" value="视图模块" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="Xd9lSxhKwCtSjWoDa_1W-205">
+          <mxGeometry x="320" width="830" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
